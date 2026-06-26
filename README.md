@@ -18,5 +18,5 @@ This tool uses standard system Python. Open Windows PowerShell or Command Prompt
 ```bash
 pip install piexif pillow pillow-jxl
 
-#### 🤝 Credits & Acknowledgments
+## 🤝 Credits & Acknowledgments
 Architectural framework, optimization logic, and multiprocessing layout written with the help of Gemini (Google AI).
