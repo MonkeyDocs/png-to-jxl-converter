@@ -18,5 +18,7 @@ This tool uses standard system Python. Open Windows PowerShell or Command Prompt
 ```bash
 pip install piexif pillow pillow-jxl
 ```
+### 2. Use convert_archive_multiprocess for converting PNG to JXL without deleting the original file, while convert_archive_final deletes the original PNG.
+
 ## 🤝 Credits & Acknowledgments
 Architectural framework, optimization logic, and multiprocessing layout written with the help of Gemini (Google AI).
